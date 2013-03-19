@@ -18,9 +18,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 Version 1.1
-
-! Collation & character set now based on overall databse setting
-? Previous query did not work for database designations containing hyphens
++ Collation & character set now based on overall database setting
++ Previous query did not work for database designations containing hyphens
 
 Version 1.0
 + Initial release
