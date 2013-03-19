@@ -5,7 +5,7 @@ This Simple Machines Forum Database Tool c/o Underdog @ http://askusaquestion.ne
 
 Copyright 2012, 2013 Underdog 
 
-SMF DB Common Collation & Engine is distributed under the terms of the GNU General Public License 
+SMF DB Common Collation & Engine is distributed under the terms of the GNU General Public License
 (http://www.gnu.org/licenses/gpl.txt)
 
 Please remember to backup your database prior to using this tool. 
