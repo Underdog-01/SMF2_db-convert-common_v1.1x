@@ -3,7 +3,7 @@ This tool uses your default database settings for common configurations. It will
 
 This Simple Machines Forum Database Tool c/o Underdog @ http://askusaquestion.net
 
-Copyright 2012, 2013 Underdog 
+Copyright 2012, 2013 Underdog @ askusaquestion.net
 
 SMF DB Common Collation & Engine is distributed under the terms of the GNU General Public License
 (http://www.gnu.org/licenses/gpl.txt)
