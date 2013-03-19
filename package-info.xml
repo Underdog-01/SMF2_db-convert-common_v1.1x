@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	ATTENTION: If you are trying to install this manually, you should try
+	the package manager.  If it will not work for you, please take a look
+	at the following for information on this format:
+		http://mods.simplemachines.org/docs/manual-install.php
+		
+    This Simple Machines Forum Database Tool c/o Underdog @ http://askusaquestion.net
+				Copyright 2012, 2013 Underdog 
+    SMF DB Common Collation & Engine is distributed under the terms of the GNU General Public License
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+    <id>underdog:db-convert-common</id>
+	<name>DB Common Collation & Engine</name>
+	<version>1.1</version>
+	<type>modification</type>
+
+		<!-- ###################      SMF2RCX        ############################ -->
+				
+	<install for="2.0 - 2.99.99">
+		<readme parsebbc="true">readme_db-changes.txt</readme>	
+		<code>SMF2/db-changes.php</code>
+	</install>	
+					
+	<uninstall for="2.0 - 2.99.99">
+		<readme parsebbc="true">uninstall_readme.txt</readme>
+		<code>SMF2/uninstall.php</code>
+	</uninstall>
+</package-info>
