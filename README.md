@@ -2,7 +2,9 @@ SMF Database -> Common collation, character set & engine type settings tool vers
 This tool uses your default database settings for common configurations. It will adjust all tables & columns to match.
 
 This Simple Machines Forum Database Tool c/o Underdog @ http://askusaquestion.net
+
 Copyright 2012, 2013 Underdog 
+
 SMF DB Common Collation & Engine is distributed under the terms of the GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
 
 Please remember to backup your database prior to using this tool. 
